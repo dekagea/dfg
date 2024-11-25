@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'dft-ct-staging-hqb52fwwfblby-portal'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F93AAA72147146A897C005646AA507E8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8804C2D9F22F402EBE3517AF2ADEE77F }}
           package: .
