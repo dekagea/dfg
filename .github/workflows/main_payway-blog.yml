@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'payway-blog'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_80AF4CB91A5541FCA3854A908614EA41 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A92C7F9D50EC4D9B94EA58705D986C37 }}
           package: .
