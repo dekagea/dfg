@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'guestsurveys'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5FF3F88579F742E194D271C4D44519A0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2332354ADF4C47B1AF466D049672BF2B }}
           package: .
