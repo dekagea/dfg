@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'novo-spotify'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2E0543DFC6264714A960C03A5F7CE87B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_37F33D5A86CF4A8BB17453C0F81954BB }}
           package: .
